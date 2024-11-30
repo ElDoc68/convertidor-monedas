@@ -1,4 +1,4 @@
-# convertidor-monedas
+# Conversor de Moneda - Challenge ONE - Java - Back end (convertidor-monedas)
 Conversor de Moneda - Challenge ONE - Java - Back end
 
 Desarrollado por David García Cerón como parte del Conversor de Moneda - Challenge ONE - Java - Back end, propuesto como parte de la especialización Java Back-End.
